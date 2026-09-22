@@ -324,7 +324,7 @@ jobs:
 
   <a href="mailto:raniyaliyakath03@gmail.com">
     <img
-      src="https://img.shields.io/badge/Email-YOUR_EMAIL-EF93C4?style=for-the-badge&logo=gmail&logoColor=white"
+      src="https://img.shields.io/badge/Email-raniyaliyakath03@gmail.com-EF93C4?style=for-the-badge&logo=gmail&logoColor=white"
       alt="Email"
     />
   </a>
