@@ -41,7 +41,7 @@ I'm **Raniya**, a Computer Science graduate with an MSc in Computer Science spec
 I'm primarily interested in **Software Engineering and Backend Development**, while also exploring **AI/ML and LLM-powered applications**.
 
 - 💻 Building applications with **Python & backend technologies**
-- ⚙️ Working with **FastAPI, Flask, Django & REST APIs**
+- ⚙️ Working with **FastAPI, Flask & REST APIs**
 - 🧠 Exploring **AI/ML, LLMs, RAG & multi-agent systems**
 - 🗄️ Working with **MySQL, MongoDB & SQL**
 - 🔗 Building AI workflows using **LangGraph**
