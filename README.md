@@ -54,16 +54,15 @@ I'm primarily interested in **Software Engineering and Backend Development**, wh
 > **Build. Learn. Improve. Repeat.** 💙
 
     </td>
-
-    <td width="35%" align="center" valign="middle">
-
-<img
-  src="https://raw.githubusercontent.com/raniyaaa/raniyaaa/main/profile-vector.png"
-  width="260"
-  alt="Raniya"
-/>
-
-    </td>
+<td width="35%" align="center" valign="middle">
+  <p align="center">
+    <img
+      src="https://raw.githubusercontent.com/raniyaaa/raniyaaa/main/profile-vector.png"
+      width="260"
+      alt="Raniya"
+    />
+  </p>
+</td>
   </tr>
 </table>
 
