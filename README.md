@@ -58,7 +58,7 @@ I'm primarily interested in **Software Engineering and Backend Development**, wh
     <td width="35%" align="center" valign="middle">
 
 <img
-  src="https://raw.githubusercontent.com/raniyaaa/raniyaaa/62829019a8fd97d8b8dcc17b494347d1939ecc19/profile.jpeg"
+  src="https://raw.githubusercontent.com/raniyaaa/raniyaaa/main/profile-vector.png"
   width="260"
   alt="Raniya"
 />
