@@ -209,7 +209,6 @@ I'm primarily interested in **Software Engineering and Backend Development**, wh
       Git<br>
       GitHub<br>
       Docker<br>
-      Postman<br>
       VS Code
     </td>
   </tr>
@@ -233,7 +232,7 @@ I'm primarily interested in **Software Engineering and Backend Development**, wh
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=raniyaaa&show_icons=true&hide_border=true&bg_color=00000000&title_color=EF93C4&icon_color=FF69B4&text_color=FFFFFF&rank_icon=github"
+    src="https://ghstats.dev/api/card?username=raniyaaa"
     alt="Raniya GitHub Stats"
     width="70%"
   />
