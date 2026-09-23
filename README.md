@@ -175,44 +175,9 @@ I'm primarily interested in **Software Engineering and Backend Development**, wh
 
 <h2 align="center">💡 What I Work With</h2>
 
-<table align="center">
-  <tr>
-    <td align="center" width="25%">
-      <b>Backend</b><br><br>
-      Python<br>
-      FastAPI<br>
-      Flask<br>
-      REST APIs
-    </td>
-
-    <td align="center" width="25%">
-      <b>AI / ML</b><br><br>
-      Machine Learning<br>
-      Deep Learning<br>
-      LLM Applications<br>
-      RAG<br>
-      Multi-Agent Systems
-    </td>
-
-    <td align="center" width="25%">
-      <b>Data</b><br><br>
-      MySQL<br>
-      MongoDB<br>
-      SQL<br>
-      Pandas<br>
-      Scikit-learn
-    </td>
-
-    <td align="center" width="25%">
-      <b>Tools</b><br><br>
-      Git<br>
-      GitHub<br>
-      Docker<br>
-      Postman<br>
-      VS Code
-    </td>
-  </tr>
-</table>
+| 🖥️ Backend | 🧠 AI / ML | 🗄️ Data | 🛠️ Tools |
+|:---:|:---:|:---:|:---:|
+| Python<br>FastAPI<br>Flask<br>REST APIs | Machine Learning<br>Deep Learning<br>LLM Applications<br>RAG<br>Multi-Agent Systems | MySQL<br>MongoDB<br>SQL<br>Pandas<br>Scikit-learn | Git<br>GitHub<br>Docker<br>Postman<br>VS Code |
 
 <br>
 
