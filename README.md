@@ -24,18 +24,6 @@
       alt="GitHub Followers"
     />
   </a>
-
-  <a href="https://github.com/raniyaaa?tab=repositories">
-    <img
-      src="https://img.shields.io/github/stars/raniyaaa?style=for-the-badge&logo=github&logoColor=white&label=STARS&color=F8BBD0"
-      alt="GitHub Stars"
-    />
-  </a>
-
-  <img
-    src="https://komarev.com/ghpvc/?username=raniyaaa&style=for-the-badge&color=FF69B4&label=PROFILE+VIEWS"
-    alt="Profile Views"
-  />
 </p>
 
 <br>
