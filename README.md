@@ -105,15 +105,6 @@ I'm primarily interested in **Software Engineering and Backend Development**, wh
 
 <h2 align="center">🚀 Featured Projects</h2>
 
-<p align="center">
-  <a href="https://github.com/raniyaaa/HireCheck">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=raniyaaa&repo=HireCheck&theme=default&hide_border=true&title_color=EF93C4&icon_color=FF69B4"
-      alt="HireCheck"
-    />
-  </a>
-</p>
-
 <h3 align="center">🤖 HireCheck — Multi-Agent AI Recruitment System</h3>
 
 <p align="center">
