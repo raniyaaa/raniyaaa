@@ -4,23 +4,23 @@
 
 <!-- ======================== HEADER ========================= -->
 
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=Raniya&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast&descAlignY=60&descSize=19&color=0:EF93C4,100:FF69B4&animation=fadeIn"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=Raniya&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast&descAlignY=60&descSize=19&color=0:F8BBD0,100:EF93C4&animation=fadeIn"
-    />
-    <img
-      src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=Raniya&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast&descAlignY=60&descSize=19&color=0:F8BBD0,100:EF93C4&animation=fadeIn"
-      width="100%"
-      alt="Raniya GitHub banner"
-    />
-  </picture>
-</p>
+<table width="100%">
+  <tr>
+    <td align="center" bgcolor="#EF93C4">
+
+      <br><br>
+
+      <h1>Raniya</h1>
+
+      <p>
+        <b>Software Engineer &nbsp;|&nbsp; Backend Developer &nbsp;|&nbsp; AI & ML Enthusiast</b>
+      </p>
+
+      <br>
+
+    </td>
+  </tr>
+</table>
 
 <br>
 
