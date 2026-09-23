@@ -4,14 +4,6 @@
 
 <!-- ======================== HEADER ========================= -->
 
-<div align="center">
-<h1>Raniya</h1>
-<p><b>Software Engineer &nbsp;|&nbsp; Backend Developer &nbsp;|&nbsp; AI & ML Enthusiast</b></p>
-</div>
-
-<br>
-<br>
-
 <h1 align="center">Hey there, I'm Raniya 👋</h1>
 
 <p align="center">
