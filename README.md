@@ -183,7 +183,6 @@ I'm primarily interested in **Software Engineering and Backend Development**, wh
       Python<br>
       FastAPI<br>
       Flask<br>
-      Django<br>
       REST APIs
     </td>
 
@@ -234,9 +233,9 @@ I'm primarily interested in **Software Engineering and Backend Development**, wh
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=raniyaaa&bg_color=ffffff00&color=EF93C4&line=FF69B4&point=F8BBD0&area=true&hide_border=true&custom_title=Raniya%27s%20Contribution%20Activity"
-    alt="Raniya GitHub Activity Graph"
-    width="95%"
+    src="https://github-readme-stats.vercel.app/api?username=raniyaaa&show_icons=true&hide_border=true&bg_color=00000000&title_color=EF93C4&icon_color=FF69B4&text_color=FFFFFF&rank_icon=github"
+    alt="Raniya GitHub Stats"
+    width="70%"
   />
 </p>
 
