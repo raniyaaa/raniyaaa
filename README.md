@@ -25,7 +25,7 @@
 
 <br>
 
-<h1 align="center">Hey there, I'm Raniya 👋</h1>
+<h1 align="center">Hey there, I'm Raniya!</h1>
 
 <p align="center">
   <img
@@ -230,13 +230,13 @@ I'm primarily interested in **Software Engineering and Backend Development**, wh
 
 <br>
 
-<p align="center">
+<!-- <p align="center">
   <img
     src="https://ghstats.dev/api/card?username=raniyaaa"
     alt="Raniya GitHub Stats"
     width="70%"
   />
-</p>
+</p> -->
 
 <br>
 
