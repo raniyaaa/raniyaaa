@@ -1,4 +1,3 @@
-
 <!-- ========================================================= -->
 <!--                    RANIYA GITHUB PROFILE                  -->
 <!-- ========================================================= -->
@@ -25,7 +24,7 @@
 
 <br>
 
-<h1 align="center">Hey there, I'm Raniya!</h1>
+<h1 align="center">Hey there, I'm Raniya 👋</h1>
 
 <p align="center">
   <img
@@ -209,99 +208,11 @@ I'm primarily interested in **Software Engineering and Backend Development**, wh
       Git<br>
       GitHub<br>
       Docker<br>
+      Postman<br>
       VS Code
     </td>
   </tr>
 </table>
-
-<br>
-
-<!-- ======================== GITHUB STATS =================== -->
-
-<h2 align="center">📊 GitHub Statistics</h2>
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=raniyaaa&theme=default&hide_border=true&background=FFFFFF00&ring=EF93C4&fire=FF69B4&currStreakLabel=EF93C4&sideLabels=EF93C4&currStreakNum=FF69B4&sideNums=FF69B4&dates=888888"
-    alt="Raniya GitHub Streak"
-    width="70%"
-  />
-</p>
-
-<br>
-
-<!-- <p align="center">
-  <img
-    src="https://ghstats.dev/api/card?username=raniyaaa"
-    alt="Raniya GitHub Stats"
-    width="70%"
-  />
-</p> -->
-
-<br>
-
-<!-- ======================== SNAKE ========================== -->
-
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/raniyaaa/raniyaaa/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/raniyaaa/raniyaaa/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      src="https://raw.githubusercontent.com/raniyaaa/raniyaaa/output/github-contribution-grid-snake.svg"
-      alt="GitHub contribution snake"
-      width="95%"
-    />
-  </picture>
-</p>
-
-<!--
-===============================================================
-SNAKE GITHUB ACTION
-
-Create this file:
-
-.github/workflows/snake.yml
-
-Paste:
-
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-
-    permissions:
-      contents: write
-
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          build_dir: dist
-        env:
-          GH_PAT: ${{ secrets.GITHUB_TOKEN }}
-
-===============================================================
--->
 
 <br>
 
@@ -317,6 +228,8 @@ jobs:
       alt="LinkedIn"
     />
   </a>
+
+</p>
 
 <p align="center">
 
@@ -360,4 +273,3 @@ jobs:
 <p align="center">
   <sub>✨ Thanks for visiting my profile! ✨</sub>
 </p>
-```
