@@ -53,7 +53,7 @@ I'm primarily interested in **Software Engineering and Backend Development**, wh
 
 > **Build. Learn. Improve. Repeat.** 💙
 
-    </td>
+</td>
 <td width="35%" align="center" valign="middle">
   <p align="center">
     <img
@@ -63,7 +63,7 @@ I'm primarily interested in **Software Engineering and Backend Development**, wh
     />
   </p>
 </td>
-  </tr>
+</tr>
 </table>
 
 <br>
