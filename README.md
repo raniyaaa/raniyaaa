@@ -8,7 +8,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=EF93C4&center=true&vCenter=true&width=900&lines=Software+Engineer+in+the+Making;Python+%7C+Backend+Development;Building+Scalable+%26+Useful+Software;Exploring+AI%2C+ML+%26+LLM+Applications;Always+Learning%2C+Building+%26+Improving"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=60A5FA&center=true&vCenter=true&width=900&lines=Software+Engineer+in+the+Making;Python+%7C+Backend+Development;Building+Scalable+%26+Useful+Software;Exploring+AI%2C+ML+%26+LLM+Applications;Always+Learning%2C+Building+%26+Improving"
     alt="Typing animation"
   />
 </p>
@@ -20,7 +20,7 @@
 <p align="center">
   <a href="https://github.com/raniyaaa">
     <img
-      src="https://img.shields.io/github/followers/raniyaaa?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=EF93C4"
+      src="https://img.shields.io/github/followers/raniyaaa?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=2563EB"
       alt="GitHub Followers"
     />
   </a>
@@ -30,7 +30,7 @@
 
 <!-- ======================== ABOUT ME ======================= -->
 
-<h2 align="center">🌸 About Me</h2>
+<h2 align="center">💙 About Me</h2>
 
 <table align="center" width="90%">
   <tr>
@@ -51,7 +51,7 @@ I'm primarily interested in **Software Engineering and Backend Development**, wh
 
 <br>
 
-> **Build. Learn. Improve. Repeat.** 🌷
+> **Build. Learn. Improve. Repeat.** 💙
 
     </td>
 
@@ -82,11 +82,11 @@ I'm primarily interested in **Software Engineering and Backend Development**, wh
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-EF93C4?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-FF69B4?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-F8BBD0?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-EF93C4?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/OCR-FF69B4?style=flat-square" />
+  <img src="https://img.shields.io/badge/Python-2563EB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-0B1F3A?style=flat-square&logo=fastapi&logoColor=60A5FA" />
+  <img src="https://img.shields.io/badge/LangGraph-60A5FA?style=flat-square&logoColor=0B1F3A" />
+  <img src="https://img.shields.io/badge/MySQL-2563EB?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/OCR-0B1F3A?style=flat-square&logoColor=60A5FA" />
 </p>
 
 <br>
@@ -100,10 +100,10 @@ I'm primarily interested in **Software Engineering and Backend Development**, wh
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-EF93C4?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-FF69B4?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-F8BBD0?style=flat-square" />
-  <img src="https://img.shields.io/badge/Computer%20Vision-EF93C4?style=flat-square" />
+  <img src="https://img.shields.io/badge/Python-2563EB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-0B1F3A?style=flat-square&logo=pytorch&logoColor=60A5FA" />
+  <img src="https://img.shields.io/badge/LangGraph-60A5FA?style=flat-square&logoColor=0B1F3A" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-2563EB?style=flat-square" />
 </p>
 
 <br>
@@ -143,15 +143,16 @@ I'm primarily interested in **Software Engineering and Backend Development**, wh
 </div>
 
 <br>
+
 <!-- ======================== CONNECT ======================== -->
 
-<h2 align="center">💌 Let's Connect</h2>
+<h2 align="center">💙 Let's Connect</h2>
 
 <p align="center">
 
   <a href="https://www.linkedin.com/in/raniya-liyakath">
     <img
-      src="https://img.shields.io/badge/LinkedIn-Raniya%20Liyakath-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      src="https://img.shields.io/badge/LinkedIn-Raniya%20Liyakath-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn"
     />
   </a>
@@ -162,7 +163,7 @@ I'm primarily interested in **Software Engineering and Backend Development**, wh
 
   <a href="mailto:raniyaliyakath03@gmail.com">
     <img
-      src="https://img.shields.io/badge/Email-raniyaliyakath03@gmail.com-EF93C4?style=for-the-badge&logo=gmail&logoColor=white"
+      src="https://img.shields.io/badge/Email-raniyaliyakath03%40gmail.com-60A5FA?style=for-the-badge&logo=gmail&logoColor=0B1F3A"
       alt="Email"
     />
   </a>
@@ -173,7 +174,7 @@ I'm primarily interested in **Software Engineering and Backend Development**, wh
 
 <!-- ======================== CURRENTLY ====================== -->
 
-<h2 align="center">🌷 Currently</h2>
+<h2 align="center">🔹 Currently</h2>
 
 <p align="center">
   💻 Building Software
@@ -189,14 +190,12 @@ I'm primarily interested in **Software Engineering and Backend Development**, wh
 
 <!-- ======================== FOOTER ========================= -->
 
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:EF93C4,100:FF69B4&animation=twinkling"
-    width="100%"
-    alt="Pink waving footer"
-  />
+<div align="center">
+
+<h3>💙 Thanks for visiting my profile!</h3>
+
+<p>
+  <sub>Building • Learning • Improving</sub>
 </p>
 
-<p align="center">
-  <sub>✨ Thanks for visiting my profile! ✨</sub>
-</p>
+</div>
