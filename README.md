@@ -36,7 +36,7 @@
   <tr>
     <td width="65%" valign="middle">
 
-I'm **Raniya**, a Computer Science graduate with an MSc in Computer Science specializing in Data Science.
+I'm **Raniya**, a Computer Science graduate with an MSc in Computer Science with specialization in Artificial Intelligence.
 
 I'm primarily interested in **Software Engineering and Backend Development**, while also exploring **AI/ML and LLM-powered applications**.
 
