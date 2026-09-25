@@ -40,14 +40,14 @@ I'm **Raniya**, a Computer Science graduate with an MSc in Computer Science spec
 
 I'm primarily interested in **Software Engineering and Backend Development**, while also exploring **AI/ML and LLM-powered applications**.
 
-- 💻 Building applications with **Python & backend technologies**
-- ⚙️ Working with **FastAPI, Flask & REST APIs**
-- 🧠 Exploring **AI/ML, LLMs, RAG & multi-agent systems**
-- 🗄️ Working with **MySQL, MongoDB & SQL**
-- 🔗 Building AI workflows using **LangGraph**
-- 🧩 Improving my **DSA & problem-solving skills**
-- 🚀 Interested in building **reliable, practical and scalable software**
-- 📚 Always learning something new
+-  Building applications with **Python & backend technologies**
+-  Working with **FastAPI, Flask & REST APIs**
+-  Exploring **AI/ML, LLMs, RAG & multi-agent systems**
+-  Working with **MySQL, MongoDB & SQL**
+-  Building AI workflows using **LangGraph**
+-  Improving my **DSA & problem-solving skills**
+-  Interested in building **reliable, practical and scalable software**
+-  Always learning something new
 
 <br>
 
@@ -90,7 +90,7 @@ I'm primarily interested in **Software Engineering and Backend Development**, wh
 
 <br>
 
-<h3 align="center">🩻 Multi-Agent Radiology Report Generation</h3>
+<h3 align="center"> Multi-Agent Radiology Report Generation</h3>
 
 <p align="center">
   A multi-agent medical imaging system that processes medical images
@@ -109,7 +109,7 @@ I'm primarily interested in **Software Engineering and Backend Development**, wh
 
 <!-- ======================== TECH STACK ===================== -->
 
-<h2 align="center">🛠️ Tech Stack</h2>
+<h2 align="center"> Tech Stack</h2>
 
 <p align="center">
   <img
