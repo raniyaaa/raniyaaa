@@ -34,40 +34,42 @@
 
 <table align="center" width="90%">
   <tr>
-
     <td width="65%" valign="middle">
 
-I'm **Raniya**, a Computer Science graduate with an MSc in Computer Science specializing in **Artificial Intelligence**.
+      <p>
+        I'm <strong>Raniya</strong>, a Computer Science graduate with an MSc in Computer Science specializing in <strong>Artificial Intelligence</strong>.
+      </p>
 
-I'm interested in **Software Engineering and Backend Development**, while building practical applications with **AI/ML, LLMs, and multi-agent systems**.
+      <p>
+        I'm interested in <strong>Software Engineering and Backend Development</strong>, while building practical applications with <strong>AI/ML, LLMs, and multi-agent systems</strong>.
+      </p>
 
-- Building backend applications with **Python, FastAPI and REST APIs**
-- Working with **AI/ML, LLMs, RAG and multi-agent systems**
-- Building AI workflows using **LangGraph**
-- Working with **MySQL, MongoDB and SQL**
-- Developing applications with **Docker and Git**
-- Practicing **DSA and problem-solving**
-- Interested in building **reliable, practical and scalable software**
+      <ul>
+        <li>Building backend applications with <strong>Python, FastAPI and REST APIs</strong></li>
+        <li>Working with <strong>AI/ML, LLMs, RAG and multi-agent systems</strong></li>
+        <li>Building AI workflows using <strong>LangGraph</strong></li>
+        <li>Working with <strong>MySQL, MongoDB and SQL</strong></li>
+        <li>Developing applications with <strong>Docker and Git</strong></li>
+        <li>Practicing <strong>DSA and problem-solving</strong></li>
+        <li>Interested in building <strong>reliable, practical and scalable software</strong></li>
+      </ul>
 
-<br>
+      <p>
+        <strong>Build. Learn. Improve. Repeat.</strong>
+      </p>
 
-> **Build. Learn. Improve. Repeat.**
+    </td>
 
-</td>
+    <td width="35%" align="center" valign="middle">
 
-<td width="35%" align="center" valign="middle">
+      <img
+        src="https://raw.githubusercontent.com/raniyaaa/raniyaaa/main/profile-vector.png"
+        width="260"
+        alt="Raniya"
+      />
 
-  <p align="center">
-    <img
-      src="https://raw.githubusercontent.com/raniyaaa/raniyaaa/main/profile-vector.png"
-      width="260"
-      alt="Raniya"
-    />
-  </p>
-
-</td>
-
-</tr>
+    </td>
+  </tr>
 </table>
 
 <br>
@@ -85,15 +87,30 @@ I'm interested in **Software Engineering and Backend Development**, while buildi
 </p>
 
 <p align="center">
-  Built with <b>FastAPI, LangGraph, Groq, OCR, MySQL and Python</b>.
+  Built with <strong>FastAPI, LangGraph, Groq, OCR, MySQL and Python</strong>.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-6366A6?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-25263D?style=flat-square&logo=fastapi&logoColor=A5A6F6" />
-  <img src="https://img.shields.io/badge/LangGraph-8B8EDB?style=flat-square&logoColor=25263D" />
-  <img src="https://img.shields.io/badge/MySQL-6366A6?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/OCR-25263D?style=flat-square&logoColor=A5A6F6" />
+  <img
+    src="https://img.shields.io/badge/Python-6366A6?style=flat-square&logo=python&logoColor=white"
+    alt="Python"
+  />
+  <img
+    src="https://img.shields.io/badge/FastAPI-25263D?style=flat-square&logo=fastapi&logoColor=A5A6F6"
+    alt="FastAPI"
+  />
+  <img
+    src="https://img.shields.io/badge/LangGraph-8B8EDB?style=flat-square&logoColor=25263D"
+    alt="LangGraph"
+  />
+  <img
+    src="https://img.shields.io/badge/MySQL-6366A6?style=flat-square&logo=mysql&logoColor=white"
+    alt="MySQL"
+  />
+  <img
+    src="https://img.shields.io/badge/OCR-25263D?style=flat-square&logoColor=A5A6F6"
+    alt="OCR"
+  />
 </p>
 
 <br>
@@ -107,14 +124,26 @@ I'm interested in **Software Engineering and Backend Development**, while buildi
 </p>
 
 <p align="center">
-  Built with <b>PyTorch, LangGraph, Computer Vision and FastAPI</b>.
+  Built with <strong>PyTorch, LangGraph, Computer Vision and FastAPI</strong>.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-6366A6?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-25263D?style=flat-square&logo=pytorch&logoColor=A5A6F6" />
-  <img src="https://img.shields.io/badge/LangGraph-8B8EDB?style=flat-square&logoColor=25263D" />
-  <img src="https://img.shields.io/badge/Computer%20Vision-6366A6?style=flat-square" />
+  <img
+    src="https://img.shields.io/badge/Python-6366A6?style=flat-square&logo=python&logoColor=white"
+    alt="Python"
+  />
+  <img
+    src="https://img.shields.io/badge/PyTorch-25263D?style=flat-square&logo=pytorch&logoColor=A5A6F6"
+    alt="PyTorch"
+  />
+  <img
+    src="https://img.shields.io/badge/LangGraph-8B8EDB?style=flat-square&logoColor=25263D"
+    alt="LangGraph"
+  />
+  <img
+    src="https://img.shields.io/badge/Computer%20Vision-6366A6?style=flat-square"
+    alt="Computer Vision"
+  />
 </p>
 
 <br>
