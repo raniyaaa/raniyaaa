@@ -30,47 +30,39 @@
 
 <!-- ======================== ABOUT ME ======================= -->
 
+<!-- ======================== ABOUT ME ======================= -->
+
 <h2 align="center">About Me</h2>
 
-<table align="center" width="90%">
-  <tr>
-    <td width="65%" valign="middle">
+<p>
+I'm <strong>Raniya</strong>, a Computer Science graduate with an MSc in Computer Science specializing in <strong>Artificial Intelligence</strong>.
+</p>
 
-      <p>
-        I'm <strong>Raniya</strong>, a Computer Science graduate with an MSc in Computer Science specializing in <strong>Artificial Intelligence</strong>.
-      </p>
+<p>
+I'm interested in <strong>Software Engineering and Backend Development</strong>, while building practical applications with <strong>AI/ML, LLMs, and multi-agent systems</strong>.
+</p>
 
-      <p>
-        I'm interested in <strong>Software Engineering and Backend Development</strong>, while building practical applications with <strong>AI/ML, LLMs, and multi-agent systems</strong>.
-      </p>
+<ul>
+  <li>Building backend applications with <strong>Python, FastAPI and REST APIs</strong></li>
+  <li>Working with <strong>AI/ML, LLMs, RAG and multi-agent systems</strong></li>
+  <li>Building AI workflows using <strong>LangGraph</strong></li>
+  <li>Working with <strong>MySQL, MongoDB and SQL</strong></li>
+  <li>Developing applications with <strong>Docker and Git</strong></li>
+  <li>Practicing <strong>DSA and problem-solving</strong></li>
+  <li>Interested in building <strong>reliable, practical and scalable software</strong></li>
+</ul>
 
-      <ul>
-        <li>Building backend applications with <strong>Python, FastAPI and REST APIs</strong></li>
-        <li>Working with <strong>AI/ML, LLMs, RAG and multi-agent systems</strong></li>
-        <li>Building AI workflows using <strong>LangGraph</strong></li>
-        <li>Working with <strong>MySQL, MongoDB and SQL</strong></li>
-        <li>Developing applications with <strong>Docker and Git</strong></li>
-        <li>Practicing <strong>DSA and problem-solving</strong></li>
-        <li>Interested in building <strong>reliable, practical and scalable software</strong></li>
-      </ul>
+<p align="center">
+  <strong>Build. Learn. Improve. Repeat.</strong>
+</p>
 
-      <p>
-        <strong>Build. Learn. Improve. Repeat.</strong>
-      </p>
-
-    </td>
-
-    <td width="35%" align="center" valign="middle">
-
-      <img
-        src="https://raw.githubusercontent.com/raniyaaa/raniyaaa/main/profile-vector.png"
-        width="260"
-        alt="Raniya"
-      />
-
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/raniyaaa/raniyaaa/main/profile-vector.png"
+    width="260"
+    alt="Raniya"
+  />
+</p>
 
 <br>
 
