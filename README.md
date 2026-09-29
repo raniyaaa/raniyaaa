@@ -4,7 +4,7 @@
 
 <!-- ======================== HEADER ========================= -->
 
-<h1 align="center">Hey there, I'm Raniya 👋</h1>
+<h1 align="center">Hey there, I'm Raniya! </h1>
 
 <p align="center">
   <img
