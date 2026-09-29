@@ -74,9 +74,9 @@ I'm interested in **Software Engineering and Backend Development**, while buildi
 
 <!-- ======================== PROJECTS ======================= -->
 
-<h2 align="center">🚀 Featured Projects</h2>
+<h2 align="center"> Featured Projects</h2>
 
-<h3 align="center">🤖 HireCheck — Multi-Agent AI Recruitment System</h3>
+<h3 align="center"> HireCheck — Multi-Agent AI Recruitment System</h3>
 
 <p align="center">
   A multi-agent recruitment system that parses resumes, matches candidates
@@ -98,7 +98,7 @@ I'm interested in **Software Engineering and Backend Development**, while buildi
 
 <br>
 
-<h3 align="center">🩻 Multi-Agent Radiology Report Generation</h3>
+<h3 align="center"> Multi-Agent Radiology Report Generation</h3>
 
 <p align="center">
   A multi-agent medical imaging system that routes medical images through
@@ -121,7 +121,7 @@ I'm interested in **Software Engineering and Backend Development**, while buildi
 
 <!-- ======================== TECH STACK ===================== -->
 
-<h2 align="center">🛠️ Tech Stack</h2>
+<h2 align="center"> Tech Stack</h2>
 
 <p align="center">
   <img
@@ -143,11 +143,11 @@ I'm interested in **Software Engineering and Backend Development**, while buildi
 
 <!-- ======================== WHAT I WORK WITH ============== -->
 
-<h2 align="center">💡 What I Work With</h2>
+<h2 align="center"> What I Work With</h2>
 
 <div align="center">
 
-| 🖥️ Backend | 🧠 AI / ML | 🗄️ Data | 🛠️ Tools |
+|  Backend |  AI / ML |  Data |  Tools |
 |:---:|:---:|:---:|:---:|
 | Python<br>FastAPI<br>Flask<br>REST APIs | Machine Learning<br>Deep Learning<br>LLM Applications<br>RAG<br>Multi-Agent Systems | MySQL<br>MongoDB<br>SQL<br>Pandas<br>Scikit-learn | Git<br>GitHub<br>Docker<br>VS Code |
 
