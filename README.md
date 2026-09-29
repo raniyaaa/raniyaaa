@@ -4,11 +4,11 @@
 
 <!-- ======================== HEADER ========================= -->
 
-<h1 align="center">Hey there, I'm Raniya! </h1>
+<h1 align="center">Hey there, I'm Raniya!</h1>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=60A5FA&center=true&vCenter=true&width=900&lines=Software+Engineer+%7C+Backend+%26+AI%2FML;Python+%7C+Backend+Development;Building+Practical+%26+Scalable+Software;Exploring+AI%2C+ML+%26+LLM+Applications;Always+Learning%2C+Building+%26+Improving"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=8B8EDB&center=true&vCenter=true&width=900&lines=Software+Engineer+%7C+Backend+%26+AI%2FML;Python+%7C+Backend+Development;Building+Practical+%26+Scalable+Software;Exploring+AI%2C+ML+%26+LLM+Applications;Always+Learning%2C+Building+%26+Improving"
     alt="Typing animation"
   />
 </p>
@@ -20,7 +20,7 @@
 <p align="center">
   <a href="https://github.com/raniyaaa">
     <img
-      src="https://img.shields.io/github/followers/raniyaaa?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=2563EB"
+      src="https://img.shields.io/github/followers/raniyaaa?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=6366A6"
       alt="GitHub Followers"
     />
   </a>
@@ -30,7 +30,7 @@
 
 <!-- ======================== ABOUT ME ======================= -->
 
-<h2 align="center"> About Me</h2>
+<h2 align="center">About Me</h2>
 
 <table align="center" width="90%">
   <tr>
@@ -51,7 +51,7 @@ I'm interested in **Software Engineering and Backend Development**, while buildi
 
 <br>
 
-> **Build. Learn. Improve. Repeat.** 💙
+> **Build. Learn. Improve. Repeat.**
 
 </td>
 
@@ -74,9 +74,9 @@ I'm interested in **Software Engineering and Backend Development**, while buildi
 
 <!-- ======================== PROJECTS ======================= -->
 
-<h2 align="center"> Featured Projects</h2>
+<h2 align="center">Featured Projects</h2>
 
-<h3 align="center"> HireCheck — Multi-Agent AI Recruitment System</h3>
+<h3 align="center">HireCheck — Multi-Agent AI Recruitment System</h3>
 
 <p align="center">
   A multi-agent recruitment system that parses resumes, matches candidates
@@ -89,16 +89,16 @@ I'm interested in **Software Engineering and Backend Development**, while buildi
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-2563EB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-0B1F3A?style=flat-square&logo=fastapi&logoColor=60A5FA" />
-  <img src="https://img.shields.io/badge/LangGraph-60A5FA?style=flat-square&logoColor=0B1F3A" />
-  <img src="https://img.shields.io/badge/MySQL-2563EB?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/OCR-0B1F3A?style=flat-square&logoColor=60A5FA" />
+  <img src="https://img.shields.io/badge/Python-6366A6?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-25263D?style=flat-square&logo=fastapi&logoColor=A5A6F6" />
+  <img src="https://img.shields.io/badge/LangGraph-8B8EDB?style=flat-square&logoColor=25263D" />
+  <img src="https://img.shields.io/badge/MySQL-6366A6?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/OCR-25263D?style=flat-square&logoColor=A5A6F6" />
 </p>
 
 <br>
 
-<h3 align="center"> Multi-Agent Radiology Report Generation</h3>
+<h3 align="center">Multi-Agent Radiology Report Generation</h3>
 
 <p align="center">
   A multi-agent medical imaging system that routes medical images through
@@ -111,17 +111,17 @@ I'm interested in **Software Engineering and Backend Development**, while buildi
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-2563EB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-0B1F3A?style=flat-square&logo=pytorch&logoColor=60A5FA" />
-  <img src="https://img.shields.io/badge/LangGraph-60A5FA?style=flat-square&logoColor=0B1F3A" />
-  <img src="https://img.shields.io/badge/Computer%20Vision-2563EB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Python-6366A6?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-25263D?style=flat-square&logo=pytorch&logoColor=A5A6F6" />
+  <img src="https://img.shields.io/badge/LangGraph-8B8EDB?style=flat-square&logoColor=25263D" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-6366A6?style=flat-square" />
 </p>
 
 <br>
 
 <!-- ======================== TECH STACK ===================== -->
 
-<h2 align="center"> Tech Stack</h2>
+<h2 align="center">Tech Stack</h2>
 
 <p align="center">
   <img
@@ -143,11 +143,11 @@ I'm interested in **Software Engineering and Backend Development**, while buildi
 
 <!-- ======================== WHAT I WORK WITH ============== -->
 
-<h2 align="center"> What I Work With</h2>
+<h2 align="center">What I Work With</h2>
 
 <div align="center">
 
-|  Backend |  AI / ML |  Data |  Tools |
+| Backend | AI / ML | Data | Tools |
 |:---:|:---:|:---:|:---:|
 | Python<br>FastAPI<br>Flask<br>REST APIs | Machine Learning<br>Deep Learning<br>LLM Applications<br>RAG<br>Multi-Agent Systems | MySQL<br>MongoDB<br>SQL<br>Pandas<br>Scikit-learn | Git<br>GitHub<br>Docker<br>VS Code |
 
@@ -157,13 +157,13 @@ I'm interested in **Software Engineering and Backend Development**, while buildi
 
 <!-- ======================== CONNECT ======================== -->
 
-<h2 align="center">💙 Let's Connect</h2>
+<h2 align="center">Let's Connect</h2>
 
 <p align="center">
 
   <a href="https://www.linkedin.com/in/raniya-liyakath">
     <img
-      src="https://img.shields.io/badge/LinkedIn-Raniya%20Liyakath-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"
+      src="https://img.shields.io/badge/LinkedIn-Raniya%20Liyakath-6366A6?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn"
     />
   </a>
@@ -174,7 +174,7 @@ I'm interested in **Software Engineering and Backend Development**, while buildi
 
   <a href="mailto:raniyaliyakath03@gmail.com">
     <img
-      src="https://img.shields.io/badge/Email-raniyaliyakath03%40gmail.com-60A5FA?style=for-the-badge&logo=gmail&logoColor=0B1F3A"
+      src="https://img.shields.io/badge/Email-raniyaliyakath03%40gmail.com-8B8EDB?style=for-the-badge&logo=gmail&logoColor=25263D"
       alt="Email"
     />
   </a>
