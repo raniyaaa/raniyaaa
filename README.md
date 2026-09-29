@@ -32,24 +32,23 @@
 
 <h2 align="center">About Me</h2>
 
-<table align="center" width="90%">
-  <tr>
+<p>
+I'm <strong>Raniya</strong>, a Computer Science graduate with an MSc in Computer Science specializing in <strong>Artificial Intelligence</strong>.
+</p>
 
-    <td width="65%" valign="middle">
+<p>
+I'm interested in <strong>Software Engineering and Backend Development</strong>, while building practical applications with <strong>AI/ML, LLMs, and multi-agent systems</strong>.
+</p>
 
-I'm **Raniya**, a Computer Science graduate with an MSc in Computer Science specializing in **Artificial Intelligence**.
-
-I'm interested in **Software Engineering and Backend Development**, while building practical applications with **AI/ML, LLMs, and multi-agent systems**.
-
-- Building backend applications with **Python, FastAPI and REST APIs**
-- Working with **AI/ML, LLMs, RAG and multi-agent systems**
-- Building AI workflows using **LangGraph**
-- Working with **MySQL, MongoDB and SQL**
-- Developing applications with **Docker and Git**
-- Practicing **DSA and problem-solving**
-- Interested in building **reliable, practical and scalable software**
-
-<br>
+<ul>
+  <li>Building backend applications with <strong>Python, FastAPI and REST APIs</strong></li>
+  <li>Working with <strong>AI/ML, LLMs, RAG and multi-agent systems</strong></li>
+  <li>Building AI workflows using <strong>LangGraph</strong></li>
+  <li>Working with <strong>MySQL, MongoDB and SQL</strong></li>
+  <li>Developing applications with <strong>Docker and Git</strong></li>
+  <li>Practicing <strong>DSA and problem-solving</strong></li>
+  <li>Interested in building <strong>reliable, practical and scalable software</strong></li>
+</ul>
 
 > **Build. Learn. Improve. Repeat.**
 
