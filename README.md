@@ -33,7 +33,7 @@
 <h2 align="center">About Me</h2>
 
 <p>
-I'm <strong>Raniya</strong>, a Computer Science graduate with an MSc in Computer Science specializing in <strong>Artificial Intelligence</strong>.
+I'm <strong>Raniya</strong>, a Computer Science graduate with an MSc in Computer Science with specialization in <strong>Artificial Intelligence</strong>.
 </p>
 
 <p>
